@@ -6,6 +6,8 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "express": "^4.17.1"
+    "@shopify/shopify-api": "^7.4.0",
+    "express": "^4.17.1",
+    "shopify-buy": "^2.19.0"
   }
 }
