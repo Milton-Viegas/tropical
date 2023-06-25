@@ -1,0 +1,9 @@
+{
+    "appId": "application-0-urjfz",
+    "appUrl": "https://realm.mongodb.com/groups/64948d139d8861784ccd8423/apps/6494ae0416b735b674e46ec0",
+    "baseUrl": "https://realm.mongodb.com",
+    "clientApiBaseUrl": "https://eu-central-1.aws.realm.mongodb.com",
+    "dataApiBaseUrl": "https://eu-central-1.aws.data.mongodb-api.com",
+    "dataExplorerLink": "https://cloud.mongodb.com/links/64948d139d8861784ccd8423/explorer/Cluster0/database/collection/find",
+    "dataSourceName": "mongodb-atlas"
+}
